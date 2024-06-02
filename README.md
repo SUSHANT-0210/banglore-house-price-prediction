@@ -1,4 +1,3 @@
-# banglore-house-price-prediction
 # Bangalore House Price Prediction
 
 This project is about predicting house prices in Bangalore. The dataset used for this project was obtained from Kaggle.
