@@ -1,4 +1,4 @@
-# Bangalore House Price Prediction
+# Bangalore House Price Prediction: A Machine Learning Project
 
 This project is about predicting house prices in Bangalore. The dataset used for this project was obtained from Kaggle.
 
