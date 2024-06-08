@@ -1,10 +1,10 @@
 # Bangalore House Price Prediction: A Machine Learning Project
 
-This project is about predicting house prices in Bangalore. The dataset used for this project was obtained from Kaggle.
+This project focuses on predicting house prices in Bangalore using machine learning techniques. The dataset utilized for this project was sourced from Kaggle.
 
 ## Project Overview
 
-During the model building process, we covered almost all data science concepts such as:
+The project encompasses various data science concepts including:
 
 - Data loading and cleaning
 - Outlier detection and removal
@@ -12,20 +12,19 @@ During the model building process, we covered almost all data science concepts s
 - Dimensionality reduction
 - One-hot encoding
 - Hyperparameter tuning using GridSearchCV
-- K-fold cross validation
+- K-fold cross-validation
 
 ## Technologies and Tools Used
 
-This project was implemented using the following technologies and tools:
+The implementation of this project relied on the following technologies and tools:
 
-1) **Python**: The main programming language used for implementing the project.
-2) **Numpy and Pandas**: Used for data cleaning and manipulation.
-3) **Matplotlib**: Used for data visualization.
-4) **Sklearn**: Used for model building.
+1) **Python**: Primary programming language for project development.
+2) **Numpy and Pandas**: Utilized for data cleaning and manipulation.
+3) **Matplotlib**: Employed for data visualization.
+4) **Scikit-learn (Sklearn)**: Utilized for model building.
 
-## Future Work
+## Website Deployment
 
-This project serves as a good starting point for predicting house prices in Bangalore. Future work could involve:
+A web application has been developed using **Streamlit** for the house price prediction. The application is hosted on the Streamlit community cloud and can be accessed via [HomeWatch](https://homewatch.streamlit.app/).
 
-- Developing a website built in **HTML**, **CSS**, and **JavaScript** that allows users to enter home square ft area, bedrooms etc and it will call a **Python Flask server** to retrieve the predicted price.
-- Using more advanced machine learning models, incorporating more features, or using a larger dataset for training the models.
+This project serves as a foundational framework for predicting house prices in Bangalore, and future enhancements could involve exploring more advanced machine learning models, incorporating additional features, or utilizing larger datasets for model training.
